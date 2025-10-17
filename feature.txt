@@ -1,1 +1,1 @@
-"New fun" 
+"Версия из master" 
