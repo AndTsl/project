@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "ver master" 
+=======
+"Ver conflict-branch" 
+>>>>>>> conflict-branch
