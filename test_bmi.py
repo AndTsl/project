@@ -30,6 +30,6 @@ class TestBMICalculator(unittest.TestCase):
         self.assertAlmostEqual(result, 20.39, places=2)
 
 
-# Добавьте эту строчку в самый конец файла:
+
 if __name__ == '__main__':
     unittest.main()
